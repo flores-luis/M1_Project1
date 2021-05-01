@@ -1,4 +1,4 @@
-# Module 1 - Project 1
+# Module 1: Project 1 
 
 <img src="https://miro.medium.com/max/1140/0*pxb9-4jdzxSp1K5Y.png" alt="html&css"/>
 
@@ -40,6 +40,3 @@ Project description is to create a and HTML file and style the page with CSS to 
 ## Author Info
 Luis Flores
 - GitHub - [@luisflores](https://github.com/luis6212)
-
-
-[Back To The Top](#Module1-Project1)
